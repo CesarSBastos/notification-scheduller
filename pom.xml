@@ -8,10 +8,10 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javanauta</groupId>
-	<artifactId>agendamento-notificacao-api</artifactId>
+	<groupId>com.cbastos</groupId>
+	<artifactId>notification-scheduller</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>agendamento-notificacao-api</name>
+	<name>notification-scheduller</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
